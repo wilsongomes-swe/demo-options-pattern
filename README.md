@@ -43,15 +43,3 @@ public class OpenAiSettings
 }
 ```
 
-This demo uses:
-- .Net 9
-
-<br /><br />
----
-
-| [<img src="https://github.com/wilsonneto-dev.png" width="75px;"/>][1] |
-| :-: |
-|[Wilson Neto][1]|
-
-
-[1]: https://github.com/wilsonneto-dev
